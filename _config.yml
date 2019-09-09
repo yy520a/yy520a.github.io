@@ -1,10 +1,10 @@
 # Site settings
 title: 重剑无锋
-SEOTitle: 重剑无锋的博客
+SEOTitle: 重剑无锋
 header-img: img/post-bg-desk.jpg
 email: 38629265@qq.com
 description: "Every failure is leading towards success."
-keyword: "重剑无锋的博客, iOS, Apple, iPhone"
+keyword: "重剑无锋, iOS, Apple, iPhone"
 url: "http://yy520a.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yy520a/yy520a.github.io.git" # you code repository
